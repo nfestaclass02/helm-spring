@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  spring:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-05-01T03:08:07.250402793Z"
+    description: A Helm chart for Kubernetes
+    digest: 285d42bd0745157a5f32ad0ef9946922b310b67b853a74d6d3f7545674c35784
+    name: spring
+    type: application
+    urls:
+    - spring-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-01T03:08:07.24957005Z"
